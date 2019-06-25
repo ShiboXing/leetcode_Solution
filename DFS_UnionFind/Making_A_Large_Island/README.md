@@ -21,6 +21,5 @@ Explanation: Can't change any 0 to 1, only one island with area = 4.
 
 Notes:
 
-1 <= grid.length = grid[0].length <= 50.
-0 <= grid[i][j] <= 1.
- 
+	1 <= grid.length = grid[0].length <= 50.
+	0 <= grid[i][j] <= 1.
